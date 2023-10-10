@@ -9,6 +9,7 @@
 双向LSTM
 ## 结果
 截取训练过程的两个epoch如下：
+
 Epoch [117/200]
 
 Iter:  26000,  Train Loss:  0.33,  Train Acc: 98.49%,  Val Loss:  0.33,  Val Acc: 97.85%, Improve: no
